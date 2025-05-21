@@ -9,7 +9,6 @@ import Blog from './components/Blog'
 import Footer from './components/footer'
 import Footer2 from './components/footer2'
 import CopyRight from './components/copyRight'
-import Test from './components/test'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -22,7 +21,6 @@ function App() {
     <Footer></Footer>
     <Footer2></Footer2>
     <CopyRight></CopyRight>
-    <Test></Test>
     </>
   )
 }
