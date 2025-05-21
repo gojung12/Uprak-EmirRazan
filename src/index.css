@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@theme {  
+  --color-lightPetani :#178a82 ;  
+  --color-petani: #134e4a;  
+  --color-petaniDark: #1e293b;
+  --color-petaniButton: #0d9488;
+  --color-petaniDark2: #0f172a;
+  --color-card: #1e293b;
+
+
+}
